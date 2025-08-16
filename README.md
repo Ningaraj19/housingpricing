@@ -10,6 +10,4 @@
 
 Create a new Environment
 
-...
 conda create -p venv python==3.9.13 -y
-...
